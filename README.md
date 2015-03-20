@@ -19,13 +19,13 @@ How should I submit my concept?
 -------------------------------
 If you have a concept that you want to submit, first look for a category that it could sit under. For example, if you have a concept for an e-commerce basket package, you will find the **cart** folder within the repository. Create a folder in here with your vendor name like so:
 
-`packages/cart/{your-vendor-name}`
+`concepts/cart/{your-vendor-name}`
 
 If you don't find one in the folder, make a pull request with the new package folder, and include your vendor name if you already have a concept:
 
-`packages/{package-name}/{your-vendor-name}`
+`concepts/{package-name}/{your-vendor-name}`
 
-When there are enough contributions, we will merge the best submitted concepts into the `finalized` directory as a finalized concept. We may release revisions of the concept if we feel that any better ideas have come along which we'd like to utilize.
+When there are enough contributions, we will merge the best submitted concepts into the `finalized/{package-name}` directory as a finalized concept. We may release revisions of the concept if we feel that any better ideas have come along which we'd like to utilize.
 
 What will happen with the concepts at finalization stage?
 ---------------------------------------------------------
