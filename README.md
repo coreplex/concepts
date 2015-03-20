@@ -21,6 +21,10 @@ If you have a concept that you want to submit, first look for a category that it
 
 `packages/cart/{your-vendor-name}`
 
+If you don't find one in the folder, make a pull request with the new package folder, and include your vendor name if you already have a concept:
+
+`packages/{package-name}/{your-vendor-name}`
+
 When there are enough contributions, we will merge the best submitted concepts into the `finalized` directory as a finalized concept. We may release revisions of the concept if we feel that any better ideas have come along which we'd like to utilize.
 
 What will happen with the concepts at finalization stage?
